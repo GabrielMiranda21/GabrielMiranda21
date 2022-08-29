@@ -1,6 +1,6 @@
 ### Olá | Eu sou o GabrielMiranda22 |
 
-- 🔭 Hoje trabalho como Operador de Corte
+- 🔭 Hoje trabalho como Operador de Solda e Corte
 - 🌱 Estou estudando javascript
 - 📫 Contate-me: gabrielmirand204@gmail.com
 - 😄 Pronouns: ele/dele
