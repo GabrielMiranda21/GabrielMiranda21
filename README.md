@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Operador de Solda e Corte
 - 🏡 Eu moro em Santo andré, São paulo - Brasil
-- 🌱 Estou estudando javascript
+- 🌱 Estou estudando node e react
 - 📫 Contate-me: gabrielmirand204@gmail.com
 - 😄 Pronouns: ele/dele
 
