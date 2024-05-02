@@ -1,6 +1,6 @@
 ### Olá | Eu sou o GabrielMiranda21 |
 
-- 🔭 Hoje trabalho como Operador de Solda e Corte
+- 🔭 Estou buscando estágio
 - 🏡 Eu moro em Santo andré, São paulo - Brasil
 - 🌱 Estou estudando node e react
 - 📫 Contate-me: gabrielmirand204@gmail.com
