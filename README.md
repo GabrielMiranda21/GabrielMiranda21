@@ -2,7 +2,7 @@
 
 - 🔭 Estou buscando estágio
 - 🏡 Eu moro em Santo andré, São paulo - Brasil
-- 🌱 Estou estudando node e react
+- 🌱 Estou estudando tailwand e nextJs
 - 📫 Contate-me: gabrielmirand204@gmail.com
 - 😄 Pronouns: ele/dele
 
