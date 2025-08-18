@@ -47,7 +47,7 @@ Meu site pessoal, desenvolvido com **NodeJs** e hospedado na Vercel.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-miranda-363269205)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielmirand204@gmail.com)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=firefox&logoColor=white)](https://seu-portfolio.com)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=firefox&logoColor=white)](https://gabrielmirandadev.vercel.app/)  
 
 ---
 
