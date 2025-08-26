@@ -31,7 +31,7 @@ Plataforma desenvolvida em **NodeJs**, permite seleção de componentes de forma
 🔹 [**Buscador de Advogados**](https://github.com/LucasGS2/Direito-Direto)  
 Plataforma desenvolvida em **PHP** para clientes encontrarem advogados cadastrados.  
 
-🔹 [**Portfólio Online**](https://github.com/usuario/portfolio)  
+🔹 [**Portfólio Online**](https://gabrielmirandadev.vercel.app/)  
 Meu site pessoal, desenvolvido com **NodeJs** e hospedado na Vercel.  
 
 ---
