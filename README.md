@@ -1,54 +1,58 @@
-# 👋 Olá, eu sou o Gabriel  
+<h1 align="center">Olá, eu sou o Gabriel Miranda! 👋</h1>
 
-💻 Desenvolvedor apaixonado por tecnologia e por transformar ideias em soluções digitais.  
-Atualmente estudo **React, Node.js e figma**, para ser capaz de desenvolver aplicações escalaveis e que atendam os clientes, criando desde sistemas web até aplicações mobile.  
+<p align="center">
+  Sou <strong>Designer e Desenvolvedor Front-end</strong>, apaixonado(a) por criar interfaces que unem estética refinada e performance técnica. Acredito que o melhor software é aquele que resolve problemas com elegância.
+</p>
 
----
-
-## 🚀 Sobre mim
-- 🎯 Buscando sempre evoluir como desenvolvedor  
-- 📚 Aprendendo constantemente novas tecnologias  
-- 🌎 Localização: Brasil  
+<br>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🎨 O que eu faço
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+* <strong>UI/UX Design:</strong> Prototipagem, design system e interfaces focadas no usuário.
+* <strong>Front-end Development:</strong> Construção de experiências web modernas, rápidas e responsivas.
 
 ---
 
-## 📌 Projetos em destaque
+## 🛠 Tecnologias
 
-🔹 [**E-commerce de venda de Cpu's**](https://github.com/brvale/SetupGamer-NodeJS)  
-Plataforma desenvolvida em **NodeJs**, permite seleção de componentes de forma individual e adição e remoção de peças do carrinho. 
+Aqui estão algumas ferramentas com as quais trabalho no dia a dia:
 
-🔹 [**Buscador de Advogados**](https://github.com/LucasGS2/Direito-Direto)  
-Plataforma desenvolvida em **PHP** para clientes encontrarem advogados cadastrados.  
-
-🔹 [**Portfólio Online**](https://gabrielmirandadev.vercel.app/)  
-Meu site pessoal, desenvolvido com **NodeJs** e hospedado na Vercel.  
-
----
-
-## 📊 Estatísticas do GitHub  
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielMiranda21&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMiranda21&layout=compact&theme=radical)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Design** | Figma, Framer |
+| **Front-end** | React, Javascript, TypeScript, Next.js |
+| **Estilização** | Tailwind CSS, CSS, Styled Components |
+| **Ferramentas** | Git, VS Code, Vercel |
 
 ---
 
-## 📫 Contato
+## 🚀 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-miranda-363269205)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielmirand204@gmail.com)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=firefox&logoColor=white)](https://gabrielmirandadev.vercel.app/)  
+* **[Gestão Camaleão]:** Landing Page institucional para um software pdv. ([Link](https://gestao-camaleao-front.vercel.app/))
+* **[Portfólio]:** Landing Page de apresentação para clientes e recrutadores. ([Link](https://gabriel-mirandav2.vercel.app/))
 
 ---
 
-✨ *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e trocar ideias.*  
+## 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+---
+
+## 📬 Vamos conversar?
+
+Estou sempre aberto a novas oportunidades, colaborações ou apenas um bom papo sobre design e tecnologia!
+
+* **LinkedIn:** [[Link](https://www.linkedin.com/in/gabriel-miranda-363269205/)]
+* **Portfólio:** [[Link](https://gabriel-mirandav2.vercel.app/)]
+* **E-mail:** [[Link](gabrielmirand204@gmail.com)]
+
+---
+
+<p align="center">
+  <em>"O design não é apenas o que parece, é como funciona."</em>
+</p>
