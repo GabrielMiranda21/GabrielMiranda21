@@ -4,8 +4,6 @@
   Sou <strong>Designer e Desenvolvedor Front-end</strong>, apaixonado(a) por criar interfaces que unem estética refinada e performance técnica. Acredito que o melhor software é aquele que resolve problemas com elegância.
 </p>
 
-<br>
-
 ---
 
 ## 🎨 O que eu faço
