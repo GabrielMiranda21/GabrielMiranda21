@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Gabriel Miranda! 👋</h1>
+<h1 align="start">Olá, eu sou o Gabriel Miranda! 👋</h1>
 
-<p align="center">
+<p align="start">
   Sou <strong>Designer e Desenvolvedor Front-end</strong>, apaixonado(a) por criar interfaces que unem estética refinada e performance técnica. Acredito que o melhor software é aquele que resolve problemas com elegância.
 </p>
 
@@ -38,7 +38,7 @@ Aqui estão algumas ferramentas com as quais trabalho no dia a dia:
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMiranda21&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 
 ---
